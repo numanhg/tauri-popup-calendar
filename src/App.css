@@ -1,0 +1,15 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Segoe UI, Tahoma, sans-serif;
+}
+
+.react-calendar {
+    width: 350px;
+    height: 282px;
+    margin: 0 auto;
+}
